@@ -4,6 +4,6 @@ import com.lonniecoffman.spring6webapp.domain.Book;
 
 public interface BookService {
 
-    Iterable<Book> findall();
+    Iterable<Book> findAll();
 
 }
